@@ -58,6 +58,10 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="square.cs" />
+    <Compile Include="square_Constructor.cs" />
+    <Compile Include="square_FieldAndProperty.cs" />
+    <Compile Include="square_Method.cs" />
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
