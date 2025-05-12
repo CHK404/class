@@ -50,11 +50,20 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Car.cs" />
+    <Compile Include="ex_M.cs" />
+    <Compile Include="ex_C.cs" />
+    <Compile Include="ex_FnP.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_ex.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_ex.Designer.cs">
+      <DependentUpon>Form_ex.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
